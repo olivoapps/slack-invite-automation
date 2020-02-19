@@ -93,7 +93,7 @@ margin-top: 20px;
 }
 
 .field{
-background: url(../images/field.png) repeat;
+background: transparent url(../images/field.png) repeat;
 width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
 border: none;
