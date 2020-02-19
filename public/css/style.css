@@ -86,7 +86,7 @@ display: block;
 }
 
 .imagencenter {
-    margin: 10px auto 20px;
+    margin: 10px auto 10px;
     text-align: center;
     display: block;
 }
@@ -165,5 +165,5 @@ a:hover {
 }
 
 .g-recaptcha, .g-recaptcha > div {
-  margin: auto;
+  margin: 10px auto 10px;;
 }
