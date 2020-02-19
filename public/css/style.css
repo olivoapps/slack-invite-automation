@@ -85,6 +85,12 @@ color: #919DAB;
 display: block;
 }
 
+.imagencenter {
+    margin: 10px auto 20px;
+    text-align: center;
+    display: block;
+}
+
 .form{
 position: relative;
 width: 478px;
