@@ -41,7 +41,7 @@ float: left;
 
 h1{
 font-family: 'Lato', Lato;
-color: #fff;
+color: #585857;
 text-align: center;
 font-size: 50px;
 font-weight: 300;
@@ -58,7 +58,7 @@ h2{
 	text-align: center;
 	font-weight: 300;
 	font-size: 20px;
-		color: #ffffff;
+		color: #585857;
 
 }
 
@@ -96,7 +96,7 @@ margin-top: 20px;
 background: #fff url(../images/field.png) repeat;
 width: 448px;
 -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
-border: 2px solid #585857;
+border: 1px solid #585857;
 font-style: italic;
 font-family: 'Lato', Lato;
 font-size: 16px;
@@ -106,7 +106,7 @@ margin-bottom: 15px;
 outline: none;
 }
 	.field:focus {
-	border: 1px solid #ffffff;
+	border: 1px solid #7f8a34;
 	padding: 14px;
 	}
 @media only screen and (max-width: 480px)  {
