@@ -139,13 +139,13 @@ cursor: pointer;
 
 
 .submit:hover{
-background: #eeeeee;
+background: #212529;
 }
 
 .error {
   color: #FE7070;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 22px;
 }
 
 a {
