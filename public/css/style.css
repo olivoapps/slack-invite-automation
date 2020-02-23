@@ -82,6 +82,15 @@ letter-spacing: 2px;
 text-align: center;
 }
 
+h4{
+font-size: 14px;
+font-weight: 400;
+color: #919DAB;
+line-height: 24px;
+letter-spacing: 2px;
+text-align: center;
+}
+
 .information p{
 font-size: 16px;
 color: #919DAB;
